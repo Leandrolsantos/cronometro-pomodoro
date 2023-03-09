@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pomodômetro</title>
+
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap" rel="stylesheet">
+
+</head>
+<body>
+ 
+    <section>
+        <div class="container">
+            <h1>Pomodômetro</h1>
+        
+            <div class="painel">
+                <p>Bora!</p>
+                <p>Pausa!</p>
+            </div>
+
+            <div class="timer">
+                <div class="circulo">
+                    <div class="tempo">
+                        <p id="minutos">30</p>
+                        <p>:</p>
+                        <p id="segundos">00</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="controles">
+                <button id="iniciar" onclick="iniciar()"><i class="fa-duotone fa-tomato"></i></button>
+
+                <a id="reiniciar" href="/"><i class="fa-sharp fa-solid fa-rotate-left"></i></a>
+            </div>
+        </div>
+    </section>
+
+<script src="./assets/js/script.js"></script>
+</body>
+</html>
