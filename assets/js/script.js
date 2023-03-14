@@ -8,8 +8,8 @@ let pausaTempo = 5;
 
 let segundos = "00";
 
-const som_alarme = new Audio("./assets/sons/alarme.wav")
-som_alarme.loop = 2
+const audio = new Audio('alarme.wav');
+
 
 // display
 window.onload = () => {
@@ -63,6 +63,10 @@ function iniciar() {
                     pausaBloco.classList.remove('active');
                     boraBloco.classList.add('active');
                    
+                    // Alarme
+                    if(boraTempo === 00) {
+                        audio.play();
+                    }
                 }
             }    
             segundos = 59;

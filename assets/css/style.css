@@ -53,7 +53,7 @@ section {
    margin-block: 2.5rem;
    padding: 1rem;
    border-radius: 10rem; 
-   background: rgba(0, 0, 0, 0.345);
+   background: rgba(92, 91, 91, 0.345);
    -webkit-box-shadow: 0px 0px 0px 10px #fe0202;
    box-shadow: 0px 0px 0px 5px #ffb700;
 }
@@ -73,11 +73,12 @@ section {
   margin-top: 1.5rem;
   justify-content: center;
   align-items: center;
+  text-shadow: 2px 2px 3px black;
   width: 8rem;
   height: 8rem;
   border-radius: 50%;
   -webkit-box-shadow: 0px 0px 0px 5px #A0A0A0, inset 0px 10px 27px -8px #141414, inset 0px -10px 27px -8px #A31925, 0px 0px 9px 5px rgba(0,0,0,0); 
-  box-shadow: 0px 0px 0px 5px #A0A0A0, inset 0px 10px 27px -8px #141414, inset 0px -10px 27px -8px #A31925, 0px 0px 9px 5px rgba(0,0,0,0);  
+  box-shadow: 0px 0px 0px 5px #ff0000, inset 0px 10px 27px -8px #141414, inset 0px -10px 27px -8px #A31925, 0px 0px 9px 5px rgba(0,0,0,0);  
 }
 
 .circulo {
@@ -124,6 +125,8 @@ section {
     border: none;
     background-color: transparent;
     cursor: pointer;
+    box-shadow: none;
+    
 }
 
 .controles #reiniciar {
