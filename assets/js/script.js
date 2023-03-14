@@ -8,9 +8,6 @@ let pausaTempo = 5;
 
 let segundos = "00";
 
-const audio = new Audio('alarme.wav');
-
-
 // display
 window.onload = () => {
     document.getElementById('minutos').innerHTML = boraTempo;
@@ -62,11 +59,6 @@ function iniciar() {
                     // Mudar o Painel
                     pausaBloco.classList.remove('active');
                     boraBloco.classList.add('active');
-                   
-                    // Alarme
-                    if(boraTempo === 00) {
-                        audio.play();
-                    }
                 }
             }    
             segundos = 59;

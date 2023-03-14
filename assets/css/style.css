@@ -81,6 +81,10 @@ section {
   box-shadow: 0px 0px 0px 5px #ff0000, inset 0px 10px 27px -8px #141414, inset 0px -10px 27px -8px #A31925, 0px 0px 9px 5px rgba(0,0,0,0);  
 }
 
+@keyframes spin{
+    to{transform: rotate(360deg);}
+}
+
 .circulo {
     display: flex;
     justify-content: center;
@@ -99,6 +103,10 @@ section {
     height: 95%;
     border-radius: 50%;
     background-color: rgba(0, 255, 21, 0.225);
+    border-top: 3px solid rgba(255, 157, 1);
+    border-left: 3px solid rgba(255, 157, 1);
+    border-right: 3px solid rgba(255, 255, 255, 0);
+    animation: spin 1s infinite linear;
 }
 
 .tempo {
