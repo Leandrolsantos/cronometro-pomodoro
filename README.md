@@ -7,7 +7,7 @@
 
 ![](./assets/img/pomo.gif)
 
-Deploy do projeto: <cronometro-pomodoro-nu.vercel.app>
+Deploy do projeto: https://cronometro-pomodoro-nu.vercel.app/
 
 ## Sobre
 
