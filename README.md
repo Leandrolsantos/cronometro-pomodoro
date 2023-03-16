@@ -11,11 +11,11 @@ Deploy do projeto: https://cronometro-pomodoro-nu.vercel.app/
 
 ## Sobre
 
-É um projeto que tem o intuito de auxiliar as pessoas que aplicam o método Pomodoro no seu dia a dia de trabalho. Uso com frequencia esse método pois ajuda e muito na eficiencia e produtividade.
+Este projeto tem o intuito de auxiliar as pessoas que aplicam o método Pomodoro no seu dia a dia de trabalho. Uso com frequencia esse método pois me ajuda muito na eficiencia e produtividade.
 
 ### Objetivo
 
-Praticar JavaScript e funcionabilidades do CSS. Foco está em melhorar minhas habilidades para melhorar o visual e experiência do usuário, e para isso resolvi criar uma ferramenta para auxiliar no cotidiano do desenvolvimento de software.
+Praticar JavaScript e funcionabilidades do CSS. Foco está em melhorar minhas habilidades e oferecer uma melhor experiência ao usuário,para isso resolvi criar uma ferramenta para ajudar no cotidiano do desenvolvimento de software.
 
 ### Desafio
 
