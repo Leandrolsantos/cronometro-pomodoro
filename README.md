@@ -1,4 +1,4 @@
-# Pomodômetro - Timer Método pomodoro
+# Pomodômetro - Timer Método Pomodoro
 
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
@@ -11,19 +11,19 @@ Deploy do projeto: https://cronometro-pomodoro-nu.vercel.app/
 
 ## Sobre
 
-Este projeto tem o intuito de auxiliar as pessoas que aplicam o método Pomodoro no seu dia a dia de trabalho. Uso com frequencia esse método pois me ajuda muito na eficiencia e produtividade.
+Este projeto tem o intuito de auxiliar as pessoas que aplicam o método Pomodoro no seu dia a dia de trabalho. Uso com frequência esse método pois me ajuda muito na eficiência e produtividade.
 
 ### Objetivo
 
-Praticar JavaScript e funcionabilidades do CSS. Foco está em melhorar minhas habilidades e oferecer uma melhor experiência ao usuário,para isso resolvi criar uma ferramenta para ajudar no cotidiano do desenvolvimento de software.
+Praticar JavaScript e funcionabilidades do CSS. Foco está em melhorar minhas habilidades e também melhorar a experiência do usuário, para isso resolvi criar uma ferramenta para ajudar no cotidiano do desenvolvimento de software.
 
 ### Desafio
 
-Entender como funciona a lógica na criação de um timer, utlizando o HTL, CSS e JavaScript. É primeira vez que tenho experiência com algoritmo de cronometro no JS. Foi muito interessante e esclarecedor.
+Entender como funciona a lógica na criação de um timer, utilizando o HTML, CSS e JavaScript. É a primeira vez que tenho experiência com algoritmo de cronômetro no JS. Foi muito interessante e esclarecedor.
 
 ### Conclusão
 
-Encerrei o projeto com uma visão muito mais nítida desse algoritmo e tenho que confessar que achei que era muito mais complexo. A partir desta experiencia poderei realizar projetos muito mais complexos daqui para frente.
+Encerrei o projeto com uma visão muito mais nítida desse algoritmo e tenho que confessar que achei que era muito mais complexo. A partir desta experiência poderei realizar projetos muito mais complexos daqui para frente.
 
 ### Ferramentas Utilizadas
 
